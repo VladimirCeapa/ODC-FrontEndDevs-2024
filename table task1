@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <table border="">
+        <tr>
+            <th>Tara</th>
+            <th>Anul</th>
+            <th>Imagine</th>
+        </tr>
+        <tr>
+            <td>Bulgaria</td>
+            <td>2019</td>
+            <td><img src="Flag_of_Bulgaria.svg.png" alt="Bolgari" width="100" height="50"></td>
+        </tr>
+        <tr>
+            <td>Moldova</td>
+            <td>2023</td>
+            <td><img src="news-category-simbolurile-statului-31-de-ani-de-independenta.png" alt="Moldova" width="100" height="50"></td>
+        </tr>
+        <tr>
+            <td>Orange</td>
+            <td>2024</td>
+            <td><img src="Orange_logo.svg.png" alt="Moldova" width="100" height="75"></td>
+        </tr>
+    </table>
+</body>
+</html>
